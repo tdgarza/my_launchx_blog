@@ -8,3 +8,5 @@ Hola ✌️  soy el explorer Tomas Garza y este es mi blog personal donde compar
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
+
+<h1>Expectativas</h1>
